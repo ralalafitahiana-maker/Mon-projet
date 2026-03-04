@@ -1,0 +1,36 @@
+body {
+   margin: 0;
+   font-family: Arial,sans-serif;
+   background-color: #f2f6fc;
+}
+
+header {
+  background-color: maroon;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+}
+   
+section {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+h2 {
+ color: maroon;
+ border-bottom: 2px solid maroon;
+ padding-bottom: 8px;
+}
+
+ul{
+  padding-left: 20px;
+}
+
+.card{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
